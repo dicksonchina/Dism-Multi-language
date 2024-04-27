@@ -1,0 +1,3 @@
+run-name: Build Dism-Multi-Language
+name: Build Dism-Multi-Language
+on: [workflow_dispatch]
